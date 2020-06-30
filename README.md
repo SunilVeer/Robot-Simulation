@@ -85,6 +85,7 @@ required[0] = 3; required[1] = 2; … required[3] = 1;
 # Run Locally
 
 • Pull the folder in Eclipse IDE For Java Developers.
+
 • Run the program by clicking on "Run Configurations" as following:
 You can specify the bar and block heights (for sections B to D) by selecting “Run” →
 “Run Configurations” from the menu, then clicking on the “Arguments” tab and
